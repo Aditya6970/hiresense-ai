@@ -61,7 +61,8 @@ hiresense-ai/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/AdityaRai/hiresense-ai.git 
+git clone https://github.com/Aditya6970/hiresense-ai.git 
+
 cd hiresense-ai  
 
 ---
